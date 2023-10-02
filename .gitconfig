@@ -1,0 +1,7 @@
+[user]
+	name = webalexj
+	email = alexj_ita@yahoo.com
+[pull]
+	rebase = trie
+[rebase]
+	autoStash = true

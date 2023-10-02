@@ -1,0 +1,16 @@
+2023-09-28 16:48:35.150 [info] 
+
+
+
+
+2023-09-28 16:48:35.151 [info] Extension host agent started.
+2023-09-28 16:48:35.184 [info] Started initializing default profile extensions in extensions installation folder. file:///home/alexj/.vscode-server/extensions
+2023-09-28 16:48:35.217 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/alexj/.vscode-server/extensions
+2023-09-28 16:48:35.428 [info] [127.0.0.1][2c41f07f][ManagementConnection] New connection established.
+2023-09-28 16:48:35.778 [info] [127.0.0.1][a67af935][ExtensionHostConnection] New connection established.
+2023-09-28 16:48:37.097 [info] [127.0.0.1][a67af935][ExtensionHostConnection] <16120> Launched Extension Host Process.
+2023-09-28 16:48:46.401 [info] [127.0.0.1][2c41f07f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-28 16:48:46.431 [info] [127.0.0.1][a67af935][ExtensionHostConnection] <16120> Extension Host Process exited with code: 0, signal: null.
+2023-09-28 16:48:48.800 [info] [127.0.0.1][6cb35e3e][ManagementConnection] New connection established.
+2023-09-28 16:48:49.573 [info] [127.0.0.1][e03e066f][ExtensionHostConnection] New connection established.
+2023-09-28 16:48:49.582 [info] [127.0.0.1][e03e066f][ExtensionHostConnection] <16174> Launched Extension Host Process.
